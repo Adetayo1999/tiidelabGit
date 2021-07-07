@@ -1,0 +1,6 @@
+   ## Creating The HTML File
+   ## Creating The CSS File
+   ## Creating The Javascript File
+   ## Creating The Architecture File
+   ## Using Git to track changes
+   
